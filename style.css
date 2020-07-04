@@ -1,0 +1,17 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+canvas {
+  border: 3px dashed black;
+  margin-top:10px;
+  margin-left: 10px;
+}
+
+body {
+  background: rgb(30,120,70);
+}
+
+button {
+  display: flex;
+}
